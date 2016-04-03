@@ -14,7 +14,7 @@ Yêu cầu **GIT**:
 * [x] Có sử dụng GIT.
 * [x] Sử dụng GIT trên 1 branch.
 * [ ] Sử dụng GIT theo Centralized Workflow.
-* [ ] Sử dụng GIT theo Feature Branch Workflow.
+* [x] Sử dụng GIT theo Feature Branch Workflow.
 * [ ] Sử dụng GIT theo Gitflow Workflow.
 
 Yêu cầu **thiết kế**:
@@ -24,7 +24,7 @@ Yêu cầu **thiết kế**:
 * [x] Thiết kế nâng cao
     * [x] Navigation, header, footer, sidebar.
     * [x] Các hiệu ứng: hover, focus,...
-* [ ] Thiết kế chạy trên nhiều trình duyệt
+* [x] Thiết kế chạy trên nhiều trình duyệt
     * [x] IE
     * [x] Firefox
     * [x] Chrome
